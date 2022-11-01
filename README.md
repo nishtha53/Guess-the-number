@@ -6,7 +6,7 @@
 
 # How to play game?
 
-- Enter any number random and click on check button right side it will say too high or too low according to that you can guess the correct number.
+- Enter any number random and click on `check` button right side it will say too high or too low according to that you can guess the correct number.
 Once you guess correct number bgcolor will change to green and text will be You guessed it right.
 - At top left side `again` button click on that and play your game again! 😄
 
